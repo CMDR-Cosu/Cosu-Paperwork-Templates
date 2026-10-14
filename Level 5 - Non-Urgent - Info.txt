@@ -1,0 +1,9 @@
+# Level 5 Full Triage Tag
+[color=#00bbbb]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#cb0000]►[/color]        [head=3][bold]     LEVEL 5 - NON-URGENT     [/head][/bold]          [color=#cb0000]◄[/color]
+[color=#00bbbb]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]Name of  the Deceased:[/bold]
+[bold]Department and Role:[/bold]
+[bold]Cause of Death:[/bold]
+[italic][color=#f39f27]This Body Does Not Need Immediate Assistance.[/italic][/color]
+[italic]Do Not Move This Body Without Authorization[/italic]

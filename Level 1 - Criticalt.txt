@@ -1,0 +1,6 @@
+# Level 1 Triage Tag
+[color=#D62E1E]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#cb0000]►[/color]        [head=3][bold]         LEVEL 1 - CRITICAL         [/head][/bold]          [color=#cb0000]◄[/color]
+[color=#D62E1E]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[italic][color=#f39f27]This Patient is in a Critical State and is Close to Becoming Unrecoverable.[/italic][/color]
+[bold]DO NOT OPEN THIS BAG OR RESSUSATATE THIS PATIENT WITHOUT AUTHORIZATION[/bold]

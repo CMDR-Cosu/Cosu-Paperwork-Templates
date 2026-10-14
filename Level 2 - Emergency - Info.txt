@@ -1,0 +1,9 @@
+# Level 2 Triage Tag
+[color=#F96407]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#cb0000]►[/color]        [head=3][bold]      LEVEL 2 - EMERGENCY      [/head][/bold]          [color=#cb0000]◄[/color]
+[color=#F96407]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]Name of  the Deceased:[/bold]
+[bold]Department and Role:[/bold]
+[bold]Cause of Death:[/bold]
+[italic][color=#f39f27]This Body Is Close to Becoming Unrecoverable.[/italic][/color]
+[italic]Do Not Move This Body Without Authorization.[/italic]

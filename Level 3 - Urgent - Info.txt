@@ -1,0 +1,9 @@
+# Level 3 Triage Tag
+[color=#E1B100]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#cb0000]►[/color]        [head=3][bold]          LEVEL 3 - URGENT          [/head][/bold]          [color=#cb0000]◄[/color]
+[color=#E1B100]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]Name of  the Deceased:[/bold]
+[bold]Department and Role:[/bold]
+[bold]Cause of Death:[/bold]
+[italic][color=#f39f27]This Body Requires Specialized Medical Assistance or is Otherwise In a High Risk State.[/italic][/color]
+[italic]Do Not Move This Body Without Authorization[/italic]

@@ -1,0 +1,6 @@
+# Level X Triage Tag
+[color=#000000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#cb0000]►[/color]        [head=3][bold] LEVEL X - UNRECOVERABLE [/head][/bold]          [color=#cb0000]◄[/color]
+[color=#000000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[italic][color=#f39f27]This Patient is Unrecoverable.[/italic][/color]
+[italic]Please Move this Body to Medical or Evac if You Are Able[/italic]

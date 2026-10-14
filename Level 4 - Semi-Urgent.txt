@@ -1,0 +1,6 @@
+# Level 4 Triage Tag
+[color=#579815]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#cb0000]►[/color]        [head=3][bold]     LEVEL 4 - SEMI-URGENT     [/head][/bold]          [color=#cb0000]◄[/color]
+[color=#579815]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[italic][color=#f39f27]This Body Does Not Need Immediate Specalized Assistance.[/italic][/color]
+[italic]Do Not Move This Body Without Authorization[/italic]
